@@ -157,7 +157,7 @@ A medium to share the catalog of all STATION F startups. This catalog is based o
 
 
 
-Thanks for reading till the end, I hope this catalog can be useful to someone :)
+**Thanks for reading till the end, I hope this catalog can be useful to someone :)**
 
 
 
