@@ -24,7 +24,7 @@
 ## Related Standards
 | Standard | Description |
 | ------------- | ------------- |
-| JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html |
+| JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html <br />  https://www.w3schools.com/js/js_json_intro.asp|
 | GeoJSON | TEXT |
 | XML(Extensible Markup Language) |  XML is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. <br /> https://www.xml.com/ |
 
