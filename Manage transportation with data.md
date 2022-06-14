@@ -1,4 +1,4 @@
-## List the transportation related data models and standards
+## List of the transportation related data models and standards
 ---- ---- ---- ---- ----
 
 | Data model   | Description  |
@@ -22,9 +22,11 @@
 
 ---- ---- ---- ---- ----
 ## Related Standards
-| JSON | TEXT |
+| Standard | Description |
+| ------------- | ------------- |
+| JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html |
 | GeoJSON | TEXT |
-| XML | TEXT |
+| XML(Extensible Markup Language) |  XML is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. <br /> https://www.xml.com/ |
 
 
  
