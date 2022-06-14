@@ -22,6 +22,10 @@
 
 ---- ---- ---- ---- ----
 ## Related Standards
-JSON
-GeoJSON 
-XML
+| JSON | TEXT |
+| GeoJSON | TEXT |
+| XML | TEXT |
+
+
+ 
+
