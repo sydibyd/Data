@@ -7,7 +7,7 @@
 | GBFS (General Bikeshare Feed Specification) | The GBFS is an open data standard for shared mobility. <br /> https://gbfs.mobilitydata.org/ <br /> https://github.com/NABSA/gbfs |
 | GTFS | link |
 | MDS (Mobility Data Specification) | https://www.openmobilityfoundation.org/about-mds/ <br /> https://github.com/openmobilityfoundation/mobility-data-specification |
-| TransXChange | TEXT |
+| TransXChange | UK nationwide standard for exchanging bus schedules and related data. <br/> https://www.gov.uk/government/collections/transxchange |
 | Siri (Standard Interface for Real-time Information) | TEXT |
 | DVC (Data Communication on Vehicles* | TEXT |
 | DJP/OJP (Open API for distributed journey planning) | TEXT |
