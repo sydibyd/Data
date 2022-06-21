@@ -17,14 +17,6 @@
 | Hafas | TEXT |
 | DATA | TEXT |
 
-
-
-| Open Data | https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9? <br/> |
-
-
-
-
-
 ---- ---- ---- ---- ----
 ## Related Standards
 | Standard | Description |
@@ -32,6 +24,7 @@
 | JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html <br />  https://www.w3schools.com/js/js_json_intro.asp|
 | GeoJSON | GeoJSON is a format for encoding a variety of geographic data structures. <br/> https://geojson.org/|
 | XML(Extensible Markup Language) |  XML is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. <br /> https://www.xml.com/ |
+| Open Data | https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9? |
 
 
  
