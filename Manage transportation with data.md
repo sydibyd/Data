@@ -5,7 +5,8 @@
 | ------------- | ------------- |
 | TRANSMODEL | https://www.transmodel-cen.eu/transmodel-at-a-glance/ <br /> https://www.transmodel-cen.eu/siri-standard/ |
 | GBFS (General Bikeshare Feed Specification) | The GBFS is an open data standard for shared mobility. <br /> https://gbfs.mobilitydata.org/ <br /> https://github.com/NABSA/gbfs |
-| GTFS | link |
+| GTFS (The General Transit Feed Specification) | GTFS static or static transit to differentiate it from the GTFS realtime extension, defines a common format for public transportation schedules and associated geographic information. GTFS "feeds" let public transit agencies publish their transit data and developers write applications that consume that data in an interoperable way. <br/> https://developers.google.com/transit/gtfs |
+| GTFS Realtime | TEXT |
 | MDS (Mobility Data Specification) | https://www.openmobilityfoundation.org/about-mds/ <br /> https://github.com/openmobilityfoundation/mobility-data-specification |
 | TransXChange | UK nationwide standard for exchanging bus schedules and related data. <br/> https://www.gov.uk/government/collections/transxchange |
 | Siri (Standard Interface for Real-time Information) | TEXT |
