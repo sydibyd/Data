@@ -3,7 +3,7 @@
 
 | Data model   | Description  |
 | ------------- | ------------- |
-| TRANSMODEL | https://www.transmodel-cen.eu/transmodel-at-a-glance/ <br /> https://www.transmodel-cen.eu/siri-standard/ |
+| TRANSMODEL | Transmodel is the basis for defining exchange standards that enable the sharing and provision of accurate and interoperable public transport information across organisation- and system-boundaries. <be/> https://www.transmodel-cen.eu/transmodel-at-a-glance/ <br /> https://www.transmodel-cen.eu/siri-standard/ |
 | GBFS (General Bikeshare Feed Specification) | The GBFS is an open data standard for shared mobility. <br /> https://gbfs.mobilitydata.org/ <br /> https://github.com/NABSA/gbfs |
 | GTFS (The General Transit Feed Specification) | GTFS static or static transit to differentiate it from the GTFS realtime extension, defines a common format for public transportation schedules and associated geographic information. GTFS "feeds" let public transit agencies publish their transit data and developers write applications that consume that data in an interoperable way. <br/> https://developers.google.com/transit/gtfs |
 | GTFS Realtime | TEXT |
