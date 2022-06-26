@@ -9,7 +9,7 @@
 | GTFS Realtime | Providing users transit data updates in real time greatly enhances their experience of your transit services. Providing up-to-date information about current arrival and departure times allows users to smoothly plan their trips. As a result, in case of an unfortunate delay, a rider would be relieved to know that they can stay home a little bit longer. <br/> https://developers.google.com/transit/gtfs-realtime |
 | MDS (Mobility Data Specification) | https://www.openmobilityfoundation.org/about-mds/ <br /> https://github.com/openmobilityfoundation/mobility-data-specification |
 | TransXChange | UK nationwide standard for exchanging bus schedules and related data. <br/> https://www.gov.uk/government/collections/transxchange |
-| Siri (Standard Interface for Real-time Information) | TEXT |
+| Siri (Standard Interface for Real-time Information) | SIRI is a CEN Technical Standard that specifies a European interface standard for exchanging information about the planned, current or projected performance of real-time public transport operations between different computer systems. <br/> https://www.transmodel-cen.eu/siri-standard/ |
 | DVC (Data Communication on Vehicles* | TEXT |
 | DJP/OJP (Open API for distributed journey planning) | TEXT |
 | NeTEx (Network Timetable Exchange) | TEXT |
