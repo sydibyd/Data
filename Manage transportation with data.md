@@ -14,7 +14,7 @@
 | NeTEx (Network Timetable Exchange) | NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data. <br/> https://netex-cen.eu/ |
 | OpRa (Operating Raw Data and statistics exchange) | OpRa is an CEN initiative with main focus on the identification of Public Transport raw data to be exchanged, gathered and stored in order to support Study and Control of Pubic Transpoprt Service. <br/> https://www.opra-cen.eu/overview/ |
 | HAFAS | The HaCon timetable information system (HAFAS) is software for timetable information from the company HaCon (Hannover Consulting). HaCon has been a 100 percent subsidiary of Siemens AG since 2017. Deutsche Bahn AG, the Austrian Federal Railways and the Swiss Federal Railways as well as numerous other European transport companies, such as the public transport company TPG, use HAFAS on a broad basis. In particular, the online timetable information for customers is realized with it. <br/>  https://de.wikipedia.org/wiki/HAFAS |
-| HAFAS Raw Data Format (HRDF)| ... |
+| HAFAS Raw Data Format (HRDF)| The timetable data of a transport provider must be available in the Hafas raw data format in order to obtain advantange of the Hafas timetable information system. This format is the starting point for the Transform data treatment which generates a specialised binary data format from the raw data. This binary data format is tailored to the needs of the search algorithm and thus enables optimum information to be found in a very short time. <br/> https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf |
 | DVC (Data Communication on Vehicles* | TEXT |
 | DATA | TEXT |
 
