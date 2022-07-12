@@ -13,8 +13,8 @@
 | DJP/OJP (Open API for distributed journey planning) | OJP initiative was born to answer the esigence to exchange accurate and timely information about public transport (PT) servicesand  to implement systems able to provide Multi-modal information for longer-distance journeys. <br/> https://www.transmodel-cen.eu/ojp-standard/ |
 | NeTEx (Network Timetable Exchange) | NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data. <br/> https://netex-cen.eu/ |
 | OpRa (Operating Raw Data and statistics exchange) | OpRa is an CEN initiative with main focus on the identification of Public Transport raw data to be exchanged, gathered and stored in order to support Study and Control of Pubic Transpoprt Service. <br/> https://www.opra-cen.eu/overview/ |
-| Models and Definitions for New Modes | TEXT |
-| Hafas | TEXT |
+| HAFAS | The HaCon timetable information system (HAFAS) is software for timetable information from the company HaCon (Hannover Consulting). HaCon has been a 100 percent subsidiary of Siemens AG since 2017. Deutsche Bahn AG, the Austrian Federal Railways and the Swiss Federal Railways as well as numerous other European transport companies, such as the public transport company TPG, use HAFAS on a broad basis. In particular, the online timetable information for customers is realized with it. <br/>  https://de.wikipedia.org/wiki/HAFAS |
+| HAFAS Raw Data Format (HRDF)| ... |
 | DVC (Data Communication on Vehicles* | TEXT |
 | DATA | TEXT |
 
