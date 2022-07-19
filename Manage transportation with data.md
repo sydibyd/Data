@@ -6,7 +6,6 @@
 | GBFS (General Bikeshare Feed Specification) | The GBFS is an open data standard for shared mobility. <br /> https://gbfs.mobilitydata.org/ <br /> https://github.com/NABSA/gbfs |
 | GTFS (The General Transit Feed Specification) | GTFS static or static transit to differentiate it from the GTFS realtime extension, defines a common format for public transportation schedules and associated geographic information. GTFS "feeds" let public transit agencies publish their transit data and developers write applications that consume that data in an interoperable way. <br/> https://developers.google.com/transit/gtfs |
 | GTFS Realtime | Providing users transit data updates in real time greatly enhances their experience of your transit services. Providing up-to-date information about current arrival and departure times allows users to smoothly plan their trips. As a result, in case of an unfortunate delay, a rider would be relieved to know that they can stay home a little bit longer. <br/> https://developers.google.com/transit/gtfs-realtime |
-| PBF ("Protocolbuffer Binary Format")  | A lot of software used in the OSM project already supports PBF in addition to the original XML format, plus there are several tools to convert from PBF to OSM XML and vice versa. <br/> https://wiki.openstreetmap.org/wiki/PBF_Format |
 | MDS (Mobility Data Specification) | https://www.openmobilityfoundation.org/about-mds/ <br /> https://github.com/openmobilityfoundation/mobility-data-specification |
 | TransXChange | UK nationwide standard for exchanging bus schedules and related data. <br/> https://www.gov.uk/government/collections/transxchange |
 | Siri (Standard Interface for Real-time Information) | SIRI is a CEN Technical Standard that specifies a European interface standard for exchanging information about the planned, current or projected performance of real-time public transport operations between different computer systems. <br/> https://www.transmodel-cen.eu/siri-standard/ <br/> www.normes-donnees-tc.org/wp-content/uploads/2021/10/BNTRA-CN03-GT7_NF-Profil-SIRI-FR_v1.2_20210308.pdf |
@@ -27,6 +26,8 @@
 | JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html <br />  https://www.w3schools.com/js/js_json_intro.asp|
 | GeoJSON | GeoJSON is a format for encoding a variety of geographic data structures. <br/> https://geojson.org/|
 | XML(Extensible Markup Language) |  XML is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. <br /> https://www.xml.com/ |
+| PBF ("Protocolbuffer Binary Format")  | A lot of software used in the OSM project already supports PBF in addition to the original XML format, plus there are several tools to convert from PBF to OSM XML and vice versa. <br/> https://wiki.openstreetmap.org/wiki/PBF_Format |
+
 
 
 ## Open Data
