@@ -11,8 +11,6 @@
 | Siri (Standard Interface for Real-time Information) | SIRI is a CEN Technical Standard that specifies a European interface standard for exchanging information about the planned, current or projected performance of real-time public transport operations between different computer systems. <br/> https://www.transmodel-cen.eu/siri-standard/ <br/> www.normes-donnees-tc.org/wp-content/uploads/2021/10/BNTRA-CN03-GT7_NF-Profil-SIRI-FR_v1.2_20210308.pdf |
 |OpenStreetMap|TEXT|
 |Wikidata|TEXT|
-
-
 | DJP/OJP (Open API for distributed journey planning) | OJP initiative was born to answer the esigence to exchange accurate and timely information about public transport (PT) servicesand  to implement systems able to provide Multi-modal information for longer-distance journeys. <br/> https://www.transmodel-cen.eu/ojp-standard/ |
 | NeTEx (Network Timetable Exchange) | NeTEx is a CEN Technical Standard for exchanging Public Transport schedules and related data. <br/> https://netex-cen.eu/ |
 | OpRa (Operating Raw Data and statistics exchange) | OpRa is an CEN initiative with main focus on the identification of Public Transport raw data to be exchanged, gathered and stored in order to support Study and Control of Pubic Transpoprt Service. <br/> https://www.opra-cen.eu/overview/ |
