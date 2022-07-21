@@ -19,7 +19,7 @@
 | DVC (Data Communication on Vehicles* | Standardization of the application rules concerning the WORLDFIP or CAN data bus transmission. Environmental and electrical conditions and limits inside the vehicle. <br/> https://www.transmodel-cen.eu/dcv-standard/ |
 
 ---- ---- ---- ---- ----
-## Related file formats and standards
+## Related file formats
 | Entity | Description |
 | ------------- | ------------- |
 | O5m | The .o5m data format was designed to be a compromise between .osm and .pbf format. It has the same structure as .osm format, therefore input and output procedures of existing OSM data processing applications can be adapted to this format with small effort. <br/> https://wiki.openstreetmap.org/wiki/O5m |
