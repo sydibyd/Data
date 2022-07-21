@@ -1,4 +1,4 @@
-## List of the transportation related data models, standards and formats
+## List of the transportation related data standards and formats
 ---- ---- ---- ---- ----
 
 | Entity  | Description  |
