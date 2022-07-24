@@ -23,6 +23,7 @@
 | Entity | Description |
 | ------------- | ------------- |
 | O5m | The .o5m data format was designed to be a compromise between .osm and .pbf format. It has the same structure as .osm format, therefore input and output procedures of existing OSM data processing applications can be adapted to this format with small effort. <br/> https://wiki.openstreetmap.org/wiki/O5m |
+|Level0L|Level0L (or l0l in short) is a format compatible with OSM XML. It is used in the Level0 editor. <br> https://wiki.openstreetmap.org/wiki/Level0L|
 | JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html <br />  https://www.w3schools.com/js/js_json_intro.asp|
 | GeoJSON | GeoJSON is a format for encoding a variety of geographic data structures. <br/> https://geojson.org/|
 | XML(Extensible Markup Language) |  XML is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. <br /> https://www.xml.com/ |
