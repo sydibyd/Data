@@ -19,9 +19,10 @@
 | DVC (Data Communication on Vehicles* | Standardization of the application rules concerning the WORLDFIP or CAN data bus transmission. Environmental and electrical conditions and limits inside the vehicle. <br/> https://www.transmodel-cen.eu/dcv-standard/ |
 
 ---- ---- ---- ---- ----
-## Related file formats
+## Dataset formats
 | Entity | Description |
 | ------------- | ------------- |
+|HTML|Users can use normal HTML tables and another structured markup as data sources with the Spry HTML dataset. HTML datasets function similarly to XML datasets, with the exception that they can take advantage of the millions of tables that are available. The HTML dataset was a natural expansion of the Spry Framework because we flatten XML into a table structure. <br> https://www.educba.com/dataset-in-html/ |
 | O5m | The .o5m data format was designed to be a compromise between .osm and .pbf format. It has the same structure as .osm format, therefore input and output procedures of existing OSM data processing applications can be adapted to this format with small effort. <br/> https://wiki.openstreetmap.org/wiki/O5m |
 |Level0L|Level0L (or l0l in short) is a format compatible with OSM XML. It is used in the Level0 editor. <br> https://wiki.openstreetmap.org/wiki/Level0L|
 | JSON | JSON (JavaScript Object Notation) is a lightweight data-interchange format. <br /> https://www.json.org/json-en.html <br />  https://www.w3schools.com/js/js_json_intro.asp|
