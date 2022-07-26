@@ -31,7 +31,7 @@
 | OSM XML | The major tools in the OSM universe use an XML format following a XML schema definition that was first used by the API only. <br/> https://wiki.openstreetmap.org/wiki/OSM_XML |
 |OSM JSON|OSM API JSON format is based on the Overpass API JSON format with only minor differences in the header fields. <br> https://wiki.openstreetmap.org/wiki/OSM_JSON <br> http://overpass-api.de/output_formats.html|
 | PBF ("Protocolbuffer Binary Format")  | A lot of software used in the OSM project already supports PBF in addition to the original XML format, plus there are several tools to convert from PBF to OSM XML and vice versa. <br/> https://wiki.openstreetmap.org/wiki/PBF_Format |
-
+|XYZ Data|XYZ data are point clouds representing measurements in arbitrary sets of points in the xy plane. <br> http://gwyddion.net/documentation/user-guide-en/xyz-data.html|
 
 
 ## Database
@@ -40,6 +40,7 @@
 | New York | https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9? |
 |Franch government (Transportation) |https://transport.data.gouv.fr/|
 |OpenStreetMap|TEXT|
+|The home of the U.S. Government’s open data|https://data.gov/|
 
 
 
