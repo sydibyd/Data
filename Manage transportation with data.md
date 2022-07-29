@@ -34,6 +34,7 @@
 | PBF ("Protocolbuffer Binary Format")  | A lot of software used in the OSM project already supports PBF in addition to the original XML format, plus there are several tools to convert from PBF to OSM XML and vice versa. <br/> https://wiki.openstreetmap.org/wiki/PBF_Format |
 |XYZ Data|XYZ data are point clouds representing measurements in arbitrary sets of points in the xy plane. <br> http://gwyddion.net/documentation/user-guide-en/xyz-data.html|
 |KML|KML is a file format used to display geographic data in an Earth browser such as Google Earth. <br> https://developers.google.com/kml/documentation/kml_tut |
+|Shapefile|A shapefile is a simple, nontopological format for storing the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas).  <br> https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm|
 
 ## API
 |API|Link|
