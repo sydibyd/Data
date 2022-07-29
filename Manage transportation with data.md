@@ -36,7 +36,7 @@
 |KML|KML is a file format used to display geographic data in an Earth browser such as Google Earth. <br> https://developers.google.com/kml/documentation/kml_tut |
 |Shapefile|A shapefile is a simple, nontopological format for storing the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas).  <br> https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm|
 
-## API
+## API standards
 |API|Link|
 |--|--|
 |ArcGIS REST APIs|The ArcGIS REST API allows you to administer ArcGIS Server programmatically. This means that you can completely manage your server using any framework that can make HTTP requests.  <br> https://developers.arcgis.com/rest/enterprise-administration/server/overview.htm|
