@@ -1,7 +1,7 @@
 ## List of the transportation related data standards and formats
 ---- ---- ---- ---- ----
 
-| Entity  | Description  |
+| Dataset standard  | Description  |
 | ------------- | ------------- |
 | GBFS (General Bikeshare Feed Specification) | The GBFS is an open data standard for shared mobility. <br /> https://gbfs.mobilitydata.org/ <br /> https://github.com/NABSA/gbfs |
 | GTFS (The General Transit Feed Specification) | GTFS static or static transit to differentiate it from the GTFS realtime extension, defines a common format for public transportation schedules and associated geographic information. GTFS "feeds" let public transit agencies publish their transit data and developers write applications that consume that data in an interoperable way. <br/> https://developers.google.com/transit/gtfs |
@@ -17,6 +17,7 @@
 | HAFAS Raw Data Format (HRDF)| The timetable data of a transport provider must be available in the Hafas raw data format in order to obtain advantange of the Hafas timetable information system. This format is the starting point for the Transform data treatment which generates a specialised binary data format from the raw data. This binary data format is tailored to the needs of the search algorithm and thus enables optimum information to be found in a very short time. <br/> https://transportdatamanagement.ch/content/uploads/2020/04/HRDF.5.20.39-Guidelines-e.pdf |
 | TRANSMODEL | Transmodel is the basis for defining exchange standards that enable the sharing and provision of accurate and interoperable public transport information across organisation- and system-boundaries. <br/> https://www.transmodel-cen.eu/transmodel-at-a-glance/ <br /> https://www.transmodel-cen.eu/siri-standard/ |
 | DVC (Data Communication on Vehicles* | Standardization of the application rules concerning the WORLDFIP or CAN data bus transmission. Environmental and electrical conditions and limits inside the vehicle. <br/> https://www.transmodel-cen.eu/dcv-standard/ |
+|MapInfo|Sometimes called the MapInfo Native format or the MapInfo TAB format, the MapInfo dataset format is a proprietary format developed for use with MapInfo software products. <br> https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml|
 
 ---- ---- ---- ---- ----
 ## Dataset formats
@@ -38,6 +39,11 @@
 |Shapefile|A shapefile is a simple, nontopological format for storing the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas).  <br> https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm|
 |STEP|STEP files are commonly used in computer-aided design (CAD) and 3D printing to contain three-dimensional model data for a wide variety of design tasks. <br>https://docs.fileformat.com/3d/step/|
 | NetCDF|NetCDF (Network Common Data Form) is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. <br> https://en.wikipedia.org/wiki/NetCDF|
+|MapInfo TAB format|https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml|
+|.DAT||
+|.ID|database information|
+|.MAP|Map objects are stored in binary format and represented in a .MAP file.|
+|.IND||
 
 ## API standards
 |API|Link|
