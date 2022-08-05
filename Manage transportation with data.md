@@ -40,10 +40,8 @@
 |STEP|STEP files are commonly used in computer-aided design (CAD) and 3D printing to contain three-dimensional model data for a wide variety of design tasks. <br>https://docs.fileformat.com/3d/step/|
 | NetCDF|NetCDF (Network Common Data Form) is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. <br> https://en.wikipedia.org/wiki/NetCDF|
 |MapInfo TAB format|https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml|
-|.DAT||
-|.ID|database information|
+|.ID|Stores information linking graphic data to the database information. This contains a 4-byte integer index into the MAP file for each feature. <br>https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml |
 |.MAP|Map objects are stored in binary format and represented in a .MAP file.|
-|.IND||
 
 ## API standards
 |API|Link|
