@@ -42,6 +42,7 @@
 |MapInfo TAB format|https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml|
 |.ID|Stores information linking graphic data to the database information. This contains a 4-byte integer index into the MAP file for each feature. <br>https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml |
 |.MAP|Map objects are stored in binary format and represented in a .MAP file. <br> https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml|
+|Resource Description Framework (RDF)|RDF datasets are used to organize collections of RDF graphs, and comprise a default graph and zero or more named graphs. <br> https://www.w3.org/TR/rdf11-concepts/|
 
 ## API standards
 |API|Link|
