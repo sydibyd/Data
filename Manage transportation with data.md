@@ -49,6 +49,7 @@
 |API|Link|
 |--|--|
 |ArcGIS REST APIs|The ArcGIS REST API allows you to administer ArcGIS Server programmatically. This means that you can completely manage your server using any framework that can make HTTP requests.  <br> https://developers.arcgis.com/rest/enterprise-administration/server/overview.htm|
+|Nextbus API|https://www.data.gov.uk/dataset/15be9dba-392c-4375-a931-425e35b956f7/nextbuses-api <br> https://gist.github.com/grantland/7cf4097dd9cdf0dfed14|
 
 
 ## Database
