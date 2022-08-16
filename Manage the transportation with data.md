@@ -49,6 +49,11 @@
 |Resource Description Framework (RDF)|RDF datasets are used to organize collections of RDF graphs, and comprise a default graph and zero or more named graphs. <br> https://www.w3.org/TR/rdf11-concepts/|
 |RSS (RDF Site Summary or Really Simple Syndication)|RSS formats are specified using a generic XML file. <br> https://en.wikipedia.org/wiki/RSS |
 
+## Data Models
+|Data Model|Link|
+|--|--|
+|INSPIRE UML|https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892|
+
 ## APIs
 |API|Link|
 |--|--|
