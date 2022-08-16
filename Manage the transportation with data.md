@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/35872299/184908279-fa23513b-e6f4-4c12-986d-d8e4d8f0ccd0.png">
-</p>
-
- © The British Standards Institution 2020
-
-
 ## List of the transportation related data standards and formats
 ---- ---- ---- ---- ----
 
