@@ -27,6 +27,7 @@
 ## Dataset formats
 | Entity | Description |
 | ------------- | ------------- |
+|GPX|A GPX file is a GPS data file saved in the GPS Exchange format, which is an open standard used by many GPS programs. <br> https://fileinfo.com/extension/gpx|
 |CSV|Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values.  <br> https://docs.fileformat.com/spreadsheet/csv/|
 |HTML|Users can use normal HTML tables and another structured markup as data sources with the Spry HTML dataset. HTML datasets function similarly to XML datasets, with the exception that they can take advantage of the millions of tables that are available. The HTML dataset was a natural expansion of the Spry Framework because we flatten XML into a table structure. <br> https://www.educba.com/dataset-in-html/ |
 |QGIS|QGIS uses the OGR library to read and write vector data formats, including ESRI shapefiles, MapInfo and MicroStation file formats, AutoCAD DXF, PostGIS, SpatiaLite, Oracle Spatial and MSSQL Spatial databases, and many more.<br>https://docs.qgis.org/2.8/en/docs/user_manual/working_with_vector/supported_data.html|
