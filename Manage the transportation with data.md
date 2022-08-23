@@ -24,6 +24,7 @@
 | DVC (Data Communication on Vehicles* | Standardization of the application rules concerning the WORLDFIP or CAN data bus transmission. Environmental and electrical conditions and limits inside the vehicle. <br/> https://www.transmodel-cen.eu/dcv-standard/ |
 |MapInfo|Sometimes called the MapInfo Native format or the MapInfo TAB format, the MapInfo dataset format is a proprietary format developed for use with MapInfo software products. <br> https://www.loc.gov/preservation/digital/formats/fdd/fdd000300.shtml|
 |CurbLR|CurbLR is a data standard for describing curb regulations. It exists to help government effectively manage and regulate the curb and to support public and private users of city streets. <br> https://github.com/curblr/curblr-spec|
+|Dyno-Demand|A travel demand data standard suitable for dynamic network modeling. <br> https://github.com/osplanning-data-standards/dyno-demand |
 
 ---- ---- ---- ---- ----
 ## Dataset formats
