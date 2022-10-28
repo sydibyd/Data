@@ -29,6 +29,8 @@ TRAIN P,	1849,	36
 TRAIN R,	1849,	24
 TRAIN U,	1995,	11
 ORLYVAL,	2 October 1991,	3
+CDGVAL,	3 avril 2007,	5
+Montmartre Funicular,	1900,	2
 TRAM 1,	6 July 1992,	37
 TRAM 2,	2 juillet 1997, 	24
 TRAM 3a,	16 décembre 2006, 	25
@@ -43,5 +45,5 @@ TRAM 10,	2023,	13
 TRAM 11,	1er juillet 2017,	7
 TRAM 12,	décembre 2023,	16
 TRAM 13,	6 juillet 2022,	12
-Montmartre Funicular,	1900,	2
+
 
