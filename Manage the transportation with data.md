@@ -59,8 +59,7 @@
 ## Data Models
 |Data Model|Link|
 |--|--|
-|INSPIRE UML|TEXT <br> https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892|
-|NAME|TEXT|
+|INSPIRE UML|<br> https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892|
 
 ## APIs
 |API|Link|
