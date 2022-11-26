@@ -59,7 +59,9 @@
 ## Data Models
 |Data Model|Link|
 |--|--|
-|INSPIRE UML|<br> https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892|
+|INSPIRE UML|https://inspire.ec.europa.eu/Data-Models/Data-Specifications/2892|
+|The Network Analyst Public Transit Data Model|https://pro.arcgis.com/en/pro-app/latest/help/analysis/networks/transit-data-model.htm|
+
 
 ## APIs
 |API|Link|
