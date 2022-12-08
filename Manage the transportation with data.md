@@ -27,6 +27,7 @@
 |CurbLR|CurbLR is a data standard for describing curb regulations. It exists to help government effectively manage and regulate the curb and to support public and private users of city streets. <br> https://github.com/curblr/curblr-spec|
 |Dyno-Demand|A travel demand data standard suitable for dynamic network modeling. <br> https://github.com/osplanning-data-standards/dyno-demand |
 |CAN ISO 11898 Controller Area Network|Vehicles on a high way using a Controller Area Network that is specified in CAN ISO 11898 Controller Area Network (CAN bus) <br> https://blog.ansi.org/2017/02/controller-area-network-can-standards-iso-11898/|
+|NMEA 2000| Standard for Serial-Data Networking of Marine Electronic Devices <br> https://www.nmea.org/content/STANDARDS/NMEA_2000 |
 
 ---- ---- ---- ---- ----
 ## Dataset formats
